@@ -1,18 +1,20 @@
-# Inside AirBnb
+# Inside Airbnb
 
 http://insideairbnb.com/get-the-data/
 
-Quarterly data for the last year for each region
 
-Country/City	File Name	                Description
-      	      listings.csv.gz	          Detailed Listings data
-      	      calendar.csv.gz	          Detailed Calendar Data
-      	      reviews.csv.gz	          Detailed Review Data
-      	      listings.csv	          Summary information and metrics for listings in Boston (good for visualisations).
-      	      reviews.csv	                Summary review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
-      	      neighbourhoods.csv	    Neighbourhood list for geo filter. Sourced from city or open source GIS files.
-      	      neighbourhoods.geojson	    GeoJSON file of neighbourhoods of the city.
+| Country/City | File Name | Description |
+| ----------- | ----------- | -------- | 
+|     	     | listings.csv.gz	|         Detailed Listings data |
+|     	     | calendar.csv.gz	|         Detailed Calendar Data |
+|     	     | reviews.csv.gz	|         Detailed Review Data |
+|     	     | listings.csv	|         Summary information and metrics for listings in Boston (good for visualisations). |
+|     	     | reviews.csv	|         Summary review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing). |
+|     	     | neighbourhoods.csv |    Neighbourhood list for geo filter. Sourced from city or open source GIS files. |
+|     	     | neighbourhoods.geojson	|    GeoJSON file of neighbourhoods of the city. |
 
+_____________________________________
+## Quarterly data for the last year for each region
 
 Boston, Massachusetts, United States
 as of 19 March, 2023
