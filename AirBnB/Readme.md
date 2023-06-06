@@ -1,7 +1,37 @@
 # Inside Airbnb
 
+- What was your motivation?
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- What problem does it solve?
+- What did you learn?
+
+
+## Quarterly data for the last year for each region used:
+
+    Boston, Massachusetts, United States as of 19 March, 2023
+
+    Copenhagen, Hovedstaden, Denmark as of 31 March, 2023
+
+    Dublin, Leinster, Ireland as of 15 March, 2023
+
+    Edinburgh, Scotland, United Kingdom as of 17 March, 2023
+
+    London, England, United Kingdom as of 14 March, 2023
+
+## Credit
+
+All data info was retrieved from:
+
+Inside Airbnb
+Adding data to the debate
+
 http://insideairbnb.com/get-the-data/
 
+The site uses the following Open Source technologies:- D3, Bootstrap, Python, PostgreSQL and Google Fonts.
+Maps are designed in Mapbox with OpenStreetMap data and hosted via Mapbox.
+The site is served by an Amazon S3 "bucket".
+
+Files available:
 
 | Country/City | File Name | Description |
 | ----------- | ----------- | -------- | 
@@ -14,19 +44,6 @@ http://insideairbnb.com/get-the-data/
 |     	     | neighbourhoods.geojson	|    GeoJSON file of neighbourhoods of the city. |
 
 _____________________________________
-## Quarterly data for the last year for each region
 
-Boston, Massachusetts, United States
-as of 19 March, 2023
 
-Copenhagen, Hovedstaden, Denmark
-as of 31 March, 2023
 
-Dublin, Leinster, Ireland
-as of 15 March, 2023
-
-Edinburgh, Scotland, United Kingdom
-as of 17 March, 2023
-
-London, England, United Kingdom
-as of 14 March, 2023
