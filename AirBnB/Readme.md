@@ -17,6 +17,9 @@ Country/City	File Name	                Description
 Boston, Massachusetts, United States
 as of 19 March, 2023
 
+Copenhagen, Hovedstaden, Denmark
+as of 31 March, 2023
+
 Dublin, Leinster, Ireland
 as of 15 March, 2023
 
