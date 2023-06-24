@@ -49,7 +49,7 @@
   Number of listings: 75.2K (KPI average calculation)\
   Average Price: $175.73 (KPI average calculation)\
   Lodgins Available: tree map\
-  Listing locations: map (longitude and latitude used, view is inherited from theme, labels when hooving on individual locations include neighborhood, price, and room type, as well as added a heat layer)
+  Listing locations: map (longitude and latitude used, view is inherited from theme, labels when hooving on individual locations include neighborhood, price, and room type, as well as added a heat layer and neighborhood regions layer with labels)
   
 - ## Learned/Issues & Problems:
   Some of the metrics used in the CSV files i.e. price- is it in U.S. dollars?, is it daily price?\
