@@ -24,31 +24,31 @@
   ### Boston, Massachusetts, United States
   Number of listings: 3.86K (KPI average calculation)\
   Average Price: $190.61 (KPI average calculation)\
-  Lodgins Available: tree map\
+  Lodgings Available: tree map\
   Listing locations: map (longitude and latitude used, street view, labels when hooving on individual locations include neighborhood, price, and room type)
 
   ### Copenhagen, Hovedstaden, Denmark
   Number of listings: 14.8K (KPI average calculation)\
   Average Price: $1,407 (KPI average calculation)\
-  Lodgins Available: pie chart comparing percentages of lodging as a whole\
+  Lodgings Available: pie chart comparing percentages of lodging as a whole\
   Listing locations: map (longitude and latitude used, street view, labels when hooving on individual locations include neighborhood, price, and room type, as well as added a heat-cluster layer)
   
   ### Dublin, Leinster, Ireland
   Number of listings: 7.88K (KPI average calculation)\
   Average Price: $207.92 (KPI average calculation)\
-  Lodgins Available: pie chart comparing percentages of lodging as a whole\
+  Lodgings Available: pie chart comparing percentages of lodging as a whole\
   Listing locations: map (longitude and latitude used, satellite street view, labels when hooving on individual locations include neighborhood, price, and room type, as well as added neighborhood regions layer)
 
   ### Edinburgh, Scotland, United Kingdom
   Number of listings: 7.25K (KPI average calculation)\
   Average Price: $160.33 (KPI average calculation)\
-  Lodgins Available: tree map\
+  Lodgings Available: tree map\
   Listing locations: map (longitude and latitude used, street view, labels when hooving on individual locations include neighborhood, price, and room type)
 
   ### London, England, United Kingdom
   Number of listings: 75.2K (KPI average calculation)\
   Average Price: $175.73 (KPI average calculation)\
-  Lodgins Available: tree map\
+  Lodgings Available: tree map\
   Listing locations: map (longitude and latitude used, view is inherited from theme, labels when hooving on individual locations include neighborhood, price, and room type, as well as added a heat layer and neighborhood regions layer with labels)
   
 - ## Learned/Issues & Problems:
