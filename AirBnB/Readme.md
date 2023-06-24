@@ -53,7 +53,7 @@
   
 - ## Learned/Issues & Problems:
   Some of the metrics used in the CSV files are unknown i.e. price- is it in U.S. dollars?, is it daily price?\
-  Cognos formatting when exporting dashboard into PDF
+  Cognos formatting issues when exporting dashboard into PDF
 
 
 
