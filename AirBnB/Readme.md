@@ -52,7 +52,7 @@
   Listing locations: map (longitude and latitude used, view is inherited from theme, labels when hooving on individual locations include neighborhood, price, and room type, as well as added a heat layer and neighborhood regions layer with labels)
   
 - ## Learned/Issues & Problems:
-  Some of the metrics used in the CSV files i.e. price- is it in U.S. dollars?, is it daily price?\
+  Some of the metrics used in the CSV files are unknown i.e. price- is it in U.S. dollars?, is it daily price?\
   Cognos formatting when exporting dashboard into PDF
 
 
