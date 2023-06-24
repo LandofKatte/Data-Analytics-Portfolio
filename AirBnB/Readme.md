@@ -1,13 +1,16 @@
 # Inside Airbnb
 
-- Purpose:
-  Practice with data sets: excel spreadsheets/data visualizations/pivot tables and dashboards with IBM Cognos
-  
-- Why?:
+- ### Purpose:
+  Practice with data sets: excel spreadsheets/data visualizations/pivot tables and dashboards with IBM Cognos\
   I wanted to compare data from different cities in different countries.
+
+- ### Process:
+  Downloaded desired cities data set as a CSV file, uploaded CSV file in excel, minimally cleaned data to desired metrics, created pivot tables\
+  The Cognos dashboards focused on an overview of individual cities- number of listings, average price, what kind of lodging accommodations available, and locations.
   
-- What problem does it solve?
-- What did you learn?
+- ### Learned/Issues & Problems:
+  Some of the metrics used in the CSV files i.e. price- is it in U.S. dollars?\
+  Cognos formatting when exporting dashboard into PDF
 
 
 ## Quarterly data for the last year for each region used:
