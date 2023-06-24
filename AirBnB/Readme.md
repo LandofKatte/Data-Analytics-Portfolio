@@ -1,7 +1,11 @@
 # Inside Airbnb
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- Purpose:
+  Practice with data sets: excel spreadsheets/data visualizations/pivot tables and dashboards with IBM Cognos
+  
+- Why?:
+  I wanted to compare data from different cities in different countries.
+  
 - What problem does it solve?
 - What did you learn?
 
