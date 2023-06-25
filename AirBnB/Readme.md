@@ -36,8 +36,8 @@
   ### Dublin, Leinster, Ireland
   Number of listings: 7.88K (KPI average calculation)\
   Average Price: $207.92 (KPI average calculation)\
-  Lodgings Available: pie chart comparing percentages of lodging as a whole\
-  Listing locations: map (longitude and latitude used, satellite street view, labels when hooving on individual locations include neighborhood, price, and room type, as well as added neighborhood regions layer)
+  Lodgings Available: pie chart comparing percentages of lodging as a whole & word cloud\
+  Listing locations: map (longitude and latitude used, satellite street view, labels when hooving on individual locations include neighborhood, price, and room type, as well as added heat map with neighborhood regions layer)
 
   ### Edinburgh, Scotland, United Kingdom
   Number of listings: 7.25K (KPI average calculation)\
@@ -46,8 +46,8 @@
   Listing locations: map (longitude and latitude used, street view, labels when hooving on individual locations include neighborhood, price, and room type)
 
   ### London, England, United Kingdom
-  Number of listings: 75.2K (KPI average calculation)\
-  Average Price: $175.73 (KPI average calculation)\
+  Number of listings: 75.2K (KPI average calculation) & image depiction\
+  Average Price: $175.73 (KPI average calculation)& image depiction\
   Lodgings Available: tree map\
   Listing locations: map (longitude and latitude used, view is inherited from theme, labels when hooving on individual locations include neighborhood, price, and room type, as well as added a heat layer and neighborhood regions layer with labels)
   
