@@ -42,7 +42,7 @@
   ### Edinburgh, Scotland, United Kingdom
   Number of listings: 7.25K (KPI average calculation)\
   Average Price: $160.33 (KPI average calculation)\
-  Lodgings Available: tree map\
+  Lodgings Available: tree map & word cloud\
   Listing locations: map (longitude and latitude used, street view, labels when hooving on individual locations include neighborhood, price, and room type)
 
   ### London, England, United Kingdom
