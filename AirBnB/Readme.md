@@ -2,7 +2,7 @@
 
 - ## Purpose:
   Practice with data sets: excel spreadsheets/data visualizations/pivot tables and dashboards with IBM Cognos\
-  I wanted to compare data from different cities in different countries.
+  I wanted to compare data from different cities in different countries...
 
   ### Quarterly data for the last year for each region used:
 
@@ -17,9 +17,9 @@
     London, England, United Kingdom as of 14 March, 2023
 
 - ## Process:
-  Downloaded desired cities data set as a CSV file from open data source, uploaded CSV file into excel, minimally cleaned data to desired metrics, created pivot tables
+  Downloaded desired cities data set as a CSV file from open data source, uploaded listings.csv into excel, minimally cleaned data to desired metrics, created pivot tables to create one condensed excel sheet as an overview of all 5 cities desired metrics
 
-  The Cognos dashboards focused on an overview of individual cities- number of listings [Key performance indicators (KPIs), formatted and rounded], average price [Key performance indicators (KPIs), formatted and rounded], what kind of lodging accommodations available (tree map or pie chart), and locations (map). Instead of doing the same exact format for every single city, I made minor variations to try different things from color and layout to different visualizations for the same information.
+  The Cognos dashboards focused on individual cities- number of listings [Key performance indicators (KPIs), formatted and rounded], average price [Key performance indicators (KPIs), formatted and rounded], what kind of lodging accommodations available (tree map or pie chart), and locations (map). Instead of doing the same exact format for every single city, I wanted to experiment with minor variations from color and layout to different visualizations for the same information.
 
   ### Boston, Massachusetts, United States
   Number of listings: 3.86K (KPI average calculation)\
@@ -53,7 +53,9 @@
   
 - ## Learned/Issues & Problems:
   Some of the metrics used in the CSV files are unknown i.e. price- is it in U.S. dollars?, is it daily price?\
-  Cognos formatting issues when exporting dashboard into PDF
+  Cognos formatting issues when exporting dashboard into PDF\
+  Limitations with formatting and layouts in Cognos\
+  Learned the visualizations that I am particularly fond of and the desire to keep experimenting
 
 
 
