@@ -2,7 +2,7 @@
 
 - ## Purpose:
   Experimentation with data sets in IBM Cognos\
-  I wanted to compare data from different cities in different countries...see what options are per city
+  I wanted to compare data from different cities in different countries...see what Airbnb options are per city
   
   ### Quarterly data for the last year for each region used:
 
@@ -63,7 +63,7 @@
   The little intricacies of each of the dashboards cannot fully be appreciated by PDFs and screenshots\
   Limitations with formatting and layouts in Cognos\
   Learned the visualizations and styles that I am particularly fond of and the desire to keep experimenting\
-  Importance in information being legable and not too busy
+  Importance in information being legible (i.e. color contrast) and not too busy
 
 
 
