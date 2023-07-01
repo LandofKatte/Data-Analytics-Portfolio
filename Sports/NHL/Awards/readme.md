@@ -2,21 +2,24 @@
 
 In honor of the 2023 NHL Awards in Nashville, Tennessee...
 
-- ## Purpose:
+## Purpose:
   As a hockey fan, I wanted to find any trends
 
-- ## Process:
+## Process:
   ipsum
   Web scraping/Data wrangling/Data cleaning...
-  IMPORTHTML
+  IMPORTHTML from Wiki into Google Sheets and clean data tables
 
-  Team Trophies:
+
+### Team Trophies:
       
   **Stanley Cup**
   - The Stanley Cup (French: La Coupe Stanley) is the championship trophy awarded annually to the National Hockey League (NHL) playoff champion. It is the oldest existing trophy to be awarded to a professional sports franchise in North America, and the International Ice Hockey Federation (IIHF) considers it to be one of the "most important championships available to the sport". The trophy was commissioned in 1892 as the Dominion Hockey Challenge Cup and is named after Lord Stanley of Preston, the Governor General of Canada, who donated it as an award to Canada's top-ranking amateur ice hockey club. The entire Stanley family supported the sport, the sons and daughters all playing and promoting the game. 
 
-
-  Individual Awards/Trophies:
+ **Presidents' Trophy**
+  - The Presidents' Trophy (French: Trophée des présidents) is an award presented by the National Hockey League (NHL) to the team that finishes with the most points (i.e. best record) during the NHL regular season. If two teams are tied for the most points, then the Trophy goes to the team with the most regulation wins (RW).
+ 
+### Individual Awards/Trophies:
 
   **Hart Memorial Trophy**
   - The Hart Memorial Trophy, originally known as the Hart Trophy, is an annual award for the most valuable player in the National Hockey League (NHL), voted by the members of the Professional Hockey Writers' Association. The original trophy was donated to the league in 1923 by David Hart, the father of Cecil Hart, the longtime head coach of the Montreal Canadiens. The Hart Trophy has been awarded 99 times to 61 different players since its beginnings in 1923–24.
@@ -39,9 +42,6 @@ In honor of the 2023 NHL Awards in Nashville, Tennessee...
   **Conn Smythe Trophy**
   - The Conn Smythe Trophy (French: Trophée Conn Smythe) is awarded annually to the most valuable player (MVP) of his team during the National Hockey League's (NHL) Stanley Cup playoffs. It is named after Conn Smythe, the longtime owner, general manager, and head coach of the Toronto Maple Leafs. The Conn Smythe Trophy has been awarded 54 times to 47 players since the 1964–65 NHL season. Each year, at the conclusion of the final game of the Stanley Cup Finals, members of the Professional Hockey Writers' Association vote to elect the player deserving of the trophy. The trophy is handed out by the NHL Commissioner before the presentation of the Stanley Cup and only the winner is announced, in contrast to most of the other NHL awards which name three finalists and are presented at a ceremony.
 
-  **Bill Masterton Memorial Trophy**
-  - The Bill Masterton Memorial Trophy is awarded annually to the National Hockey League player who best exemplifies the qualities of perseverance, sportsmanship, and dedication to ice hockey. It is named after Bill Masterton, the only player in NHL history to die as a direct result of injuries suffered during a game. The winner is selected by a poll of the Professional Hockey Writers' Association after each team nominates one player in competition. It is often awarded to a player who has come back from career– or even life-threatening illness or injury.
-
   **Ted Lindsay Award**
   - The Ted Lindsay Award, formerly known as the Lester B. Pearson Award, is awarded annually to the National Hockey League's most outstanding player in the regular season as judged by the members of the NHL Players' Association. First awarded in 1971, it is a companion to the Hart Memorial Trophy, which is awarded to the League's Most Valuable Player, as judged by members of the Professional Hockey Writers' Association. The award was renamed in 2010 after Ted Lindsay of the Detroit Red Wings.
 
@@ -56,11 +56,6 @@ In honor of the 2023 NHL Awards in Nashville, Tennessee...
 
   **NHL Plus-Minus Award**
   - The NHL Plus-Minus Award was a trophy awarded annually by the National Hockey League to the ice hockey "player, having played a minimum of 60 games, who leads the league in plus-minus statistics."
-
-  **King Clancy Memorial Trophy**
-  - The King Clancy Memorial Trophy is a sports award given annually to the National Hockey League (NHL) player who best exemplifies leadership qualities on and off the ice and who has made a significant humanitarian contribution to his community. The winner is chosen by "a special panel of representatives" from the Professional Hockey Writers' Association and the NHL Broadcasters' Association.
-
-    The trophy is named in honour of Francis M. "King" Clancy, a former player for the original Ottawa Senators and the Toronto Maple Leafs who later went on to become a coach, referee, and team executive. The trophy was first awarded in 1988 and was presented to the NHL by Maple Leafs owner Harold Ballard, who called Clancy "one of the greatest humanitarians that ever lived". It honours similar community service as the Charlie Conacher Humanitarian Award, which was retired in 1984.  
   
   **Maurice "Rocket" Richard Trophy**
   - The Maurice "Rocket" Richard Trophy, also known as the Rocket Richard Trophy, is awarded annually to the leading goal scorer in the National Hockey League (NHL). It was donated to the NHL by the Montreal Canadiens in 1998–99 and is named in honour of legendary Montreal Canadiens right winger Maurice "Rocket" Richard. 
@@ -68,13 +63,13 @@ In honor of the 2023 NHL Awards in Nashville, Tennessee...
   **Roger Crozier Saving Grace Award**
   - The Roger Crozier Saving Grace Award, officially billed as the MBNA/MasterCard Roger Crozier Saving Grace Award, was an award in ice hockey given annually to the goaltender who finished the regular season with the best save percentage in the National Hockey League (NHL). Only goaltenders who played 25 games or more in the season were eligible for the award. A goaltender's save percentage represents the percentage of shots on goal that he stops, and is calculated by dividing the number of saves by the total number of shots on goal.
 
-  **Mark Messier Leadership Award**
-  - The Mark Messier Leadership Award is a National Hockey League (NHL) award that recognizes an individual as a superior leader within their sport, and as a contributing member of society. The award is given to a player selected by Hockey Hall of Fame center Mark Messier to honor an individual who leads by positive example through on-ice performance, motivation of team members and a dedication to community activities and charitable causes. It was first awarded during 2006–07 NHL season and sponsored by Cold-fX. 
-
   **Jim Gregory General Manager of the Year Award**
-  - The Jim Gregory General Manager of the Year Award is awarded annually to the top National Hockey League general manager as voted by "a 41-member panel that included all 31 general managers, five NHL executives and five media members."[1] First awarded in 2010, the award was renamed in 2019 after the death of former NHL executive Jim Gregory. 
+  - The Jim Gregory General Manager of the Year Award is awarded annually to the top National Hockey League general manager as voted by "a 41-member panel that included all 31 general managers, five NHL executives and five media members."[1] First awarded in 2010, the award was renamed in 2019 after the death of former NHL executive Jim Gregory.
 
-- ## Learned/Issues & Problems:
+
+(This is not a complete list of Trophies/Awards.)
+
+## Learned/Issues & Problems:
   ipsum
 
 
