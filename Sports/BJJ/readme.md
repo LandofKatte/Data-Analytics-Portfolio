@@ -30,4 +30,4 @@
 
 All data info was retrieved from:
 
-ipsum
+[ADCC 2022](https://www.bjjheroes.com/editorial/adcc-2022-after-math-data-compliation-and-analysis)https://www.bjjheroes.com/editorial/adcc-2022-after-math-data-compliation-and-analysis
