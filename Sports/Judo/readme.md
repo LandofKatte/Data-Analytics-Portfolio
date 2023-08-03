@@ -12,6 +12,7 @@
 
   Part 1: 
   Tableau story (takes place of powerpoint)
+  Story map...
 
   Part 2:
 
