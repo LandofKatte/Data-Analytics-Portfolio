@@ -11,6 +11,7 @@
   With all research, I needed a purpose. What did I want to learn or know? 
 
   Part 1: 
+  Tableau story (takes place of powerpoint)
 
   Part 2:
 
