@@ -11,8 +11,8 @@
   With all research, I needed a purpose. What did I want to learn or know? 
 
   Part 1: 
-  Tableau story (takes place of powerpoint)
-  Story map...
+  I wanted to create my own breakdown of Judo history and it's techniques in a Tableau story (taking place of a PowerPoint presentation).
+  First, I put together a list of waza (techinques) from the Kodokan into Google Sheets to upload into Tableau Public. Then, breakdown the techniques.
 
   Part 2:
 
@@ -27,6 +27,8 @@
 Data sources used:
 
 [Judo Wiki](https://en.wikipedia.org/wiki/Judo)
+
+[Olympics:Judo](https://olympics.com/en/sports/judo/)
 
 [Kodokan](http://www.kodokanjudoinstitute.org/en//)
 
