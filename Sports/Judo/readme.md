@@ -24,6 +24,10 @@
 
 ## Credit
 
-All data info was retrieved from:
+Data sources used:
 
+[Judo Wiki](https://en.wikipedia.org/wiki/Judo)
 
+[Kodokan](http://www.kodokanjudoinstitute.org/en//)
+
+[How Judo Professionals Win and Lost in Competition: A Closer Look at Gender, Weight, Technique, and Gripping](https://aassjournal.com/article-1-1093-en.pdf)
